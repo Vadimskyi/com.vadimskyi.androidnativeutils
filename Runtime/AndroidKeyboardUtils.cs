@@ -13,6 +13,7 @@ namespace VadimskyiLab.Android
 
         public static int GetHeight()
         {
+			//fix
             return GetHeight(false);
         }
 

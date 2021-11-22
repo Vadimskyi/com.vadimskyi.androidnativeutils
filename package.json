@@ -1,0 +1,22 @@
+{
+    "name": "com.vadimskyi.androidnativeutils",
+    "version": "1.0.0",
+    "displayName": "Android native utilities",
+    "description": "Package description",
+    "unity": "2021.1",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "author": {
+      "name": "Vadimskyi",
+      "email": "vadimskyigd@gmail.com",
+      "url": "https://www.vadimskyi.com"
+    },
+    "samples" : [
+      {
+        "displayName": "Sample scene",
+        "description": "Sample description",
+        "path": "Samples~/Sample scene"
+      }
+    ]
+  }

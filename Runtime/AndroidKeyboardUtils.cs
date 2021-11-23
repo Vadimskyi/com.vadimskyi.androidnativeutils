@@ -15,6 +15,7 @@ namespace VadimskyiLab.Android
         {
 			//fix
 			//fix 2
+			//fix 3
             return GetHeight(false);
         }
 

@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/compare/v1.0.1...v1.0.2) (2021-11-23)
+
+
+### Bug Fixes
+
+* final fix ([62d2d31](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/commit/62d2d310a057fd3e05cbff5a5afd03f7111ecb8a))
+
 ## [1.0.1](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/compare/v1.0.0...v1.0.1) (2021-11-22)
 
 

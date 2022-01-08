@@ -1,4 +1,4 @@
-﻿/* Copyright (C) 2021 Vadimskyi - All Rights Reserved
+﻿/* Copyright (C) 2022 Vadimskyi - All Rights Reserved
  * Github - https://github.com/Vadimskyi
  * Website - https://www.vadimskyi.com/
  * You may use, distribute and modify this code under the
@@ -43,12 +43,6 @@ namespace VadimskyiLab.Android
 
         public static void CalculateAndroidMetrics()
         {
-            // The following is equivalent to this Java code:
-            //
-            // metricsInstance = new DisplayMetrics();
-            // UnityPlayer.currentActivity.getWindowManager().getDefaultDisplay().getMetrics(metricsInstance);
-            //
-            // ... which is pretty much equivalent to the code on this page:
 #if UNITY_EDITOR
             if (Screen.width == 800 && Screen.height == 1200) // Samsung Galaxy Tab Active2
             {
@@ -110,7 +104,6 @@ namespace VadimskyiLab.Android
                 YDPI = 403.2f;
                 Density = 2.5f;
             }
-
 #else
             using (
                 AndroidJavaClass unityPlayerClass = new AndroidJavaClass("com.unity3d.player.UnityPlayer"),

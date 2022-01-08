@@ -1,3 +1,18 @@
 {
-	"name": "Vadimskyi.AndroidUtils"
+    "name": "Android",
+    "references": [
+        "GUID:6acfffcf45a670546892e2380426141a"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

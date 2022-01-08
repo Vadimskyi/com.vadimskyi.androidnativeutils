@@ -12,11 +12,14 @@
     "email": "vadimskyigd@gmail.com",
     "url": "https://www.vadimskyi.com"
   },
+  "dependencies": {
+    "com.vadimskyi.eventmanager": "1.0.2"
+  },
   "samples": [
     {
-      "displayName": "Sample scene",
-      "description": "Sample description",
-      "path": "Samples~/Sample scene"
+      "displayName": "Native Keyboard",
+      "description": "Demonstration for android virtual keyboard events.",
+      "path": "Samples/NativeKeyboard"
     }
   ]
 }

@@ -8,18 +8,19 @@ using UnityEngine;
 
 namespace VadimskyiLab.Android
 {
-    public class AndroidNavigationBarUtils
+    internal class AndroidNavigationBarUtils
     {
-        private AndroidJavaClass _nativePlugin;
+        private static AndroidJavaClass _nativePlugin;
 
         public AndroidNavigationBarUtils()
         {
             _nativePlugin = new AndroidJavaClass("com.vadimskyi.navigationbar.NavigationBarUtils");
         }
 
-        public void SetColor(string hexCode)
+        public void SetColor(Color color)
         {
-            _nativePlugin.CallStatic("SetNavBarColor", hexCode);
+            var hex = ColorUtility.ToHtmlStringRGB(color);
+            _nativePlugin.CallStatic("SetNavBarColor", "#" + hex);
         }
 
         public void ShowNavBar()

@@ -1,4 +1,4 @@
-﻿/* Copyright (C) 2021 Vadimskyi - All Rights Reserved
+﻿/* Copyright (C) 2022 Vadimskyi - All Rights Reserved
  * Github - https://github.com/Vadimskyi
  * Website - https://www.vadimskyi.com/
  * You may use, distribute and modify this code under the
@@ -21,11 +21,6 @@ namespace VadimskyiLab.Android
         public void SetBrightness(float brightness)
         {
             _nativePlugin.CallStatic("SetAppBrightness", brightness);
-        }
-        
-        public void GetSystemBrightness()
-        {
-            //_nativePlugin.CallStatic("GetSystemBrightness", brightness);
         }
     }
 }

@@ -1,4 +1,11 @@
-﻿using UnityEngine;
+﻿/* Copyright (C) 2022 Vadimskyi - All Rights Reserved
+ * Github - https://github.com/Vadimskyi
+ * Website - https://www.vadimskyi.com/
+ * You may use, distribute and modify this code under the
+ * terms of the GPL-3.0 License.
+ */
+
+using UnityEngine;
 using UnityEngine.UI;
 using VadimskyiLab.Android;
 

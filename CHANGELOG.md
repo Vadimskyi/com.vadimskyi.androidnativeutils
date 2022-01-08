@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/compare/v1.0.2...v1.1.0) (2022-01-08)
+
+
+### Features
+
+* improved usability    - Added native keyboard events tracking   - Added new samples  BREAKING CHANGE: internal api changes ([37f5074](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/commit/37f50743c829050af4382a58e8e4aa32101d09bb))
+
 ## [1.0.2](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/compare/v1.0.1...v1.0.2) (2021-11-23)
 
 

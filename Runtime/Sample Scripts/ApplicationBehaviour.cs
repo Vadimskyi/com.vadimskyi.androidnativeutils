@@ -5,7 +5,6 @@
  * terms of the GPL-3.0 License.
  */
 
-
 using UnityEngine;
 using UnityEngine.UI;
 using VadimskyiLab.Android;

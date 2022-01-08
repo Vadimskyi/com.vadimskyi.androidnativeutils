@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/compare/v2.0.0...v2.0.1) (2022-01-08)
+
+
+### Bug Fixes
+
+* upm release version priority ([c9ac90a](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/commit/c9ac90ae45f7688a94bd3da0e9b4ba0efbfed8f4))
+
 # [2.0.0](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/compare/v1.1.0...v2.0.0) (2022-01-08)
 
 

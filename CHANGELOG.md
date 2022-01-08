@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/compare/v1.1.0...v2.0.0) (2022-01-08)
+
+
+### Features
+
+* improved usability ([28173b6](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/commit/28173b60175c73e6c98a5a1bfac107c661d38366))
+
+
+### BREAKING CHANGES
+
+* internal api changes
+
 # [1.1.0](https://github.com/Vadimskyi/com.vadimskyi.androidnativeutils/compare/v1.0.2...v1.1.0) (2022-01-08)
 
 
